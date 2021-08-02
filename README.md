@@ -4,5 +4,8 @@
 - Walk/run History
 - Persistently data storage in [Realm Database](https://github.com/realm/realm-cocoa)
 
-## Live Preview
+## Preview
 ![Live Preview](https://github.com/maheshcheliya/Treads/blob/main/video/1.gif?raw=true)
+
+## [Live Preview](https://appetize.io/app/v795bqnuatd8d6914ny6ex2yvc?device=iphone6s&scale=75&orientation=portrait&osVersion=14.1)
+Note: App will not show walking distance update in the live preview, it will work in the original device or simulator.
